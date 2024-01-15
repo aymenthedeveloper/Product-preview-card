@@ -19,7 +19,7 @@ main{
   grid-template-columns: repeat(2, 1fr);
 }
 .product_pic{
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url(img/image-product-desktop.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -84,7 +84,7 @@ main{
   .product_pic{
     min-height: 300px;
     border-radius: 25px 25px 0 0;
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(img/image-product-mobile.jpg);
   }
   .product_details{
     border-radius: 0 0 25px 25px;
